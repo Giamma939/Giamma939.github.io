@@ -1,12 +1,10 @@
+{
+  padding : 0;
+  maargin : 0;
+}
+
+body{
 background-image: url(luna-rossa.jpg);
 background-size: cover;
 background-position: center;
-
-p {
-  color: black;
-}
-h1 {
-  font-weight: bold;
-  color: red;
-  text-align: center;
 }
