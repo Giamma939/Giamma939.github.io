@@ -1,14 +1,15 @@
 *
 {
-  padding : 0;
-  margin : 0;
-}ù
+  padding : 1;
+  margin : 1;
+}
 
 style {
 
 width: 100%;
 height: 100%;
 }
+
 body{
 background-image: url(luna-rossa.jpg);
 background-size: cover;
