@@ -4,13 +4,8 @@
   margin : 0;
 }
 
-style {
-
-width: 20px;
-height: 20px;
-}
-
-body{
+body
+{
 background-image: url(lunarossa.jpg);
 background-size: cover;
 background-position: center;
