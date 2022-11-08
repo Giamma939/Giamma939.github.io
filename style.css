@@ -1,3 +1,7 @@
+background-image: url(luna-rossa.jpg);
+background-size: cover;
+background-position: center;
+
 p {
   color: black;
 }
