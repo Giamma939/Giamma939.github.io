@@ -6,7 +6,7 @@
 
 .prova
 {
-background-image: url(lunarossa.jpg);
+background-image:"lunarossa.jpg";
 background-size: cover;
 background-position: center;
 position: fixed;
