@@ -41,3 +41,7 @@ p {
 h1{
   text-align: center;
 }
+
+p1 {
+  text-emphasis-color: white;
+}
