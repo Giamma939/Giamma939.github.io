@@ -56,14 +56,16 @@ h1{
 .lunarossa{
 width: 600x;
 height: 500px;
-position: left;
+position: absolute;
 top: -20px;
+left:50px;
 }
 
 .lunarossanuova
 {
   width: 600px;
   height: 500px;
-  position:right;
+  position: absolute;
   top: -20px;
+  left: 140px;
   }
