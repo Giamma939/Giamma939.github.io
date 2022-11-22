@@ -54,16 +54,16 @@ h1{
 }
 
 .lunarossa{
-width:400px;
-height:300px;
-position:left;
+width: 1000px;
+height: 1000px;
+position: left;
 top: -20px;
 }
 
 .lunarossanuova
 {
-  width:400px;
-  height:300px;
+  width: 1000px;
+  height: 100px;
   position:right;
   top: -20px;
   }
