@@ -72,11 +72,11 @@ left:115px;
 
   .copyright
   {
-    position: fixed;
+    position: absolute;
     height:100px;
     width:100px;
     bottom: 10px;
     right:100px;     
     color: #ddd;   
-      
+
   }
